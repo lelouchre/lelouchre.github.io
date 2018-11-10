@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>This is JaxFang</title>
   
-  <subtitle>又一个GoodHexo小站</subtitle>
+  <subtitle>Python\ML\DL</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="lelouchre.github.io/"/>
-  <updated>2017-10-26T07:15:40.000Z</updated>
+  <updated>2018-11-10T15:43:14.000Z</updated>
   <id>lelouchre.github.io/</id>
   
   <author>
-    <name>http://sobaigu.com</name>
+    <name>JaxFang</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>01—â_python_first</title>
+    <link href="lelouchre.github.io/01%E2%80%94python-first.html"/>
+    <id>lelouchre.github.io/01—python-first.html</id>
+    <published>2018-11-10T15:43:14.000Z</published>
+    <updated>2018-11-10T15:43:14.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo，从此开始...</title>
