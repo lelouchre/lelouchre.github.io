@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="lelouchre.github.io/"/>
-  <updated>2017-10-26T07:15:40.000Z</updated>
+  <updated>2018-11-28T15:20:58.000Z</updated>
   <id>lelouchre.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>萌新大数据第一步：搭建hadoop环境</title>
+    <link href="lelouchre.github.io/01-built-hadoop.html"/>
+    <id>lelouchre.github.io/01-built-hadoop.html</id>
+    <published>2018-11-28T15:20:58.000Z</published>
+    <updated>2018-11-28T15:20:58.000Z</updated>
+    
+    <summary type="html">
+    
+      Hadoop是一个由Apache基金会所开发的分布式系统基础架构。
+学习hadoop是学习大数据的必经之路。而要学习大数据，先从搭建数据开始。
+    
+    </summary>
+    
+      <category term="大数据/Big Data" scheme="lelouchre.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE-Big-Data/"/>
+    
+    
+      <category term="Hexo" scheme="lelouchre.github.io/tags/Hexo/"/>
+    
+      <category term="Hadoop" scheme="lelouchre.github.io/tags/Hadoop/"/>
+    
+      <category term="Big Data" scheme="lelouchre.github.io/tags/Big-Data/"/>
+    
+      <category term="Head First" scheme="lelouchre.github.io/tags/Head-First/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo，从此开始...</title>
